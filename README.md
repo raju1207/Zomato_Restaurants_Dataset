@@ -44,7 +44,3 @@ This dataset can be used for various purposes, such as:
 
 This dataset is provided for educational and analytical purposes.
 
----
-
-For any questions or issues, please open an issue in this repository.
-
